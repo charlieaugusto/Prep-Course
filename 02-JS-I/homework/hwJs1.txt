@@ -1,0 +1,13 @@
+variable: Es un caracter que puede adquirir cualquier valor numerico designado, ejemplo:
+var a = 7
+a = 8
+
+string: Es una cadena de caracteres que no representa a un valor numerico, ejemplo:
+string = "Hola"
+string = "23"
+
+funcion: Es una serie de instrucciones que sirven para poder retornar un resultado, ejemplo:
+funcion (1,2) => {return 1+2}
+
+declaracion: Es una condicionante para la validación del resultado de una operación, ejemplo:
+if ()
